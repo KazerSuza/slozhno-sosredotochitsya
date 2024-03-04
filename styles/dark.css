@@ -11,6 +11,7 @@
   --title_decor-color: #000028;
   --secondary_title-color: #FF0070;
   --decor-color: #FF0070;
+  --button_hover-color: rgb(255 0 112 / 0.4);
   background-image: url(../images/cover-image-dark.png);
   background-color: #000028;
 }
